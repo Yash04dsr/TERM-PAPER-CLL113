@@ -5,7 +5,7 @@ This is a **Comparative study of normal concrete vs self healing bacterial concr
 
 A) Developed and implemented a linear regression model to predict the stress-strain behavior of self-healing concrete, resulting in a **40% improvement** in the **Seinze model**
 
-B) Fitted the stress strain data using **Polynomial interpolation** by lagrange method. 
+B) Fitted the stress strain data using **Polynomial interpolation** by Lagrange method. 
 
 C) Using this curve by using **numerical derivative method** (Four point central difference method) found the modulas of elasticity and detailed comaparison of two of the concrete.
 
